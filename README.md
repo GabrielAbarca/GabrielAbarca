@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Gabe
-💻 I'm currently working on my own projects, developing my professional profile and aquiring experience in this wonderful world of Programming (more AI now than anything else right?).
+💻 I'm currently working on my own projects, developing my professional profile and acquiring experience in this wonderful world of Programming (more AI now than anything else right?).
 🎓 Moreover, I'm a Freshman Computer Science student in the state of Illinois!
 
 ---
