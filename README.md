@@ -1,6 +1,35 @@
-# Hi there! 👋 I'm Gabe
-💻 I'm currently working on my own projects, developing my professional profile and acquiring experience in this wonderful world of Programming (more AI now than anything else right?).
-🎓 Moreover, I'm a Freshman Computer Science student in the state of Illinois!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gabriel%20Abarca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Builder&descAlignY=56&descSize=17&descColor=a78bfa" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://gzelaya.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-gzelaya.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:contact@gzelaya.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gabrielabarca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Self-taught+front-end+developer;Building+for+the+web+since+day+one;Rust+%7C+React+%7C+Astro+%7C+Node.js;CS+student+%E2%80%94+aiming+for+the+top;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+</div>
+
+---
+
+## `$ whoami`
+
+Hi there! 👋 I'm Gabe
+I'm a CS student and self-taught front-end developer who's been building real products for many years before starting formal education. My recent work includes a full-stack webapp school management system (Dashboard), personal portfolio using a personalized domain, and a Rust programming course currently in development.
 
 ---
 
@@ -8,3 +37,77 @@
 
 If you like my way of thinking and ability to code, don't hesitate to reach out!
 You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(contact form available!)*
+
+
+- 🌐 Live portfolio → **[gzelaya.com](https://gzelaya.com)**
+- 🦀 Currently building a **Rust programming course** for experienced devs!
+- 🗄️ Working on a **Node.js + PostgreSQL school management system** (Supabase)
+- 🎸 I also play the guitar — *Every dev has a hobby that gets them away from the computer, right?*
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,rust,html,css,sql&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,astro,nodejs,express&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vite,postgres,supabase&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAbarca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAbarca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielAbarca&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://smp-web-page.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=SMP-Web-Page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://lunar-ark-servers.net">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=LunarARK-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAbarca/GabrielAbarca/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAbarca/GabrielAbarca/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/GabrielAbarca/GabrielAbarca/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielAbarca&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
