@@ -42,7 +42,7 @@ You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(c
 - 🌐 Live portfolio → **[gzelaya.com](https://gzelaya.com)**
 - 🦀 Currently building a **Rust programming course** for experienced devs!
 - 🗄️ Working on a **Node.js + PostgreSQL school management system** (Supabase)
-- 🎸 I also play the guitar — *Every dev has a hobby that gets them away from the computer, right?*
+- 🎸 I also play the guitar🙂 (*Every dev has a hobby that gets them away from the computer, right?*)
 
 ---
 
