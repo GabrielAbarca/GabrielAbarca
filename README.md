@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/gabrielabarca" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-zelaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
