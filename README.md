@@ -33,7 +33,7 @@ I'm a CS student and self-taught front-end developer who's been building real pr
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 If you like my way of thinking and ability to code, don't hesitate to reach out!
 You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(contact form available!)*
