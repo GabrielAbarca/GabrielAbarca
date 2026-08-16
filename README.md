@@ -69,9 +69,13 @@ You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAbarca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAbarca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
 <div align="center">
@@ -84,10 +88,23 @@ You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(c
 
 <div align="center">
 
-<a href="https://simplemanagepro.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=Simple-manage-pro-landing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+### [Simple Manage Pro](https://simplemanagepro.com)
+
+Full-stack school management dashboard — landing page &amp; product site.
+
+<a href="https://simplemanagepro.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-simplemanagepro.com-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/GabrielAbarca/Simple-manage-pro-landing" target="_blank">
+  <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/github/stars/GabrielAbarca/Simple-manage-pro-landing?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/GabrielAbarca/Simple-manage-pro-landing?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github" alt="Forks"/>
+<img src="https://img.shields.io/github/last-commit/GabrielAbarca/Simple-manage-pro-landing?style=flat-square&color=a78bfa&labelColor=0d1117&logo=git&logoColor=white" alt="Last Commit"/>
+<img src="https://img.shields.io/github/languages/top/GabrielAbarca/Simple-manage-pro-landing?style=flat-square&color=a78bfa&labelColor=0d1117" alt="Top Language"/>
 
 </div>
 
