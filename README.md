@@ -84,13 +84,10 @@ You can visit my personal website → **[gzelaya.com](https://gzelaya.com)** *(c
 
 <div align="center">
 
-<a href="https://smp-web-page.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=SMP-Web-Page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<a href="https://simplemanagepro.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=Simple-manage-pro-landing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
-&nbsp;
-<a href="https://lunar-ark-servers.net">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAbarca&repo=LunarARK-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
+
 
 </div>
 
